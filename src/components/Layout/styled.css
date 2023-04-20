@@ -1,0 +1,21 @@
+.btn {
+    outline: none;
+    min-width: 120px;
+    border: 1px solid #90e9ec;
+    padding: 6px 0;
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 10px 10px 20px;
+    float: right;
+}
+.btn:hover {
+    background-color: #39b0df;
+}
+input {
+    outline: none;
+    width: auto;
+    padding: 8px 6px;
+}
+input:hover {
+    border: 2px solid #39b0df;
+}
